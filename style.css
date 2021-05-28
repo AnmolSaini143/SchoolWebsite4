@@ -1,0 +1,14 @@
+body {
+    text-align: center; 
+}
+.navbar-inverse {
+    background-color: black;
+}
+
+#maps {
+    text-align: center;
+}
+
+#welcome-vid {
+    text-align: center;
+}
